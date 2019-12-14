@@ -86,7 +86,7 @@ echo "<meta http-equiv='refresh' content='0;url=dezigner.php'>";
         <td><?php echo $row1[2];?></td>
         <td><?php echo $row1[3];?></td>
         <td><?php echo $row1[4];?></td>  
-        <td><a href="../RegForm/dexigner/php/projects/<?php echo $row1[5]; ?>" class='btn btn-danger'>Download</a></td>
+        <td><a href="../RegForm/dexigner/php/projects/<?php echo $row1[5]; ?>" class='btn btn-danger'><?php echo $row1[5]; ?></a></td>
         <!--td><?php echo $row1[5];?></td-->  
       </tr>
       <?php endwhile;?>

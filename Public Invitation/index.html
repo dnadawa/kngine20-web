@@ -50,7 +50,7 @@
 				<span><img src="images/cclogo.png" width="60%" style="display: block; margin-left: auto; margin-right: auto; width: 50%;"></img></span>
 			</div>
 
-			<form class="contact100-form validate-form" method="POST" action="php/cybercombat.php" enctype="multipart/form-data">
+			<form class="contact100-form validate-form" method="POST" action="php/Register.php" enctype="multipart/form-data">
 				<p id="bla">Register</p>
 
 
@@ -62,7 +62,7 @@
 					</label>
 				</div>
 				<div class="wrap-input100 validate-input">
-						<input id="name" class="input100" type="text" name="teamname" placeholder="Principal">
+						<input id="name" class="input100" type="text" name="principal" placeholder="Principal">
 						<span class="focus-input100"></span>
 						<label class="label-input100" for="principal">
 							<span class="lnr lnr-users m-b-2"></span>
@@ -72,7 +72,7 @@
 
 				<p id="bla">Master In Charge's Details</p>
 				<div class="wrap-input100 validate-input">
-					<input id="name" class="input100" type="text" name="leadername" placeholder="Name">
+					<input id="name" class="input100" type="text" name="micname" placeholder="Name">
 					<span class="focus-input100"></span>
 					<label class="label-input100" for="micname">
 						<span class="lnr lnr-user m-b-2"></span>
@@ -81,7 +81,7 @@
 
 
 				<div class="wrap-input100 validate-input">
-						<input id="email" class="input100" type="text" name="email" placeholder="Email">
+						<input id="email" class="input100" type="text" name="micemail" placeholder="Email">
 						<span class="focus-input100"></span>
 						<label class="label-input100" for="micmail">
 						<span class="lnr lnr-envelope m-b-5"></span>
@@ -90,7 +90,7 @@
 
 
 				<div class="wrap-input100 validate-input">
-					<input id="phone" class="input100" type="text" name="leaderconno" placeholder="Contact Number" maxlength="10">
+					<input id="phone" class="input100" type="text" name="micconno" placeholder="Contact Number" maxlength="10">
 					<span class="focus-input100"></span>
 					<label class="label-input100" for="miccontact">
 						<span class="lnr lnr-smartphone m-b-2"></span>
@@ -166,7 +166,7 @@
 				</div>
 
 				<div class="container-contact100-form-btn">
-					<button class="contact100-form-btn" >
+					<button class="contact100-form-btn" name="regbtn">
 						Register Now
 					</button>
 				</div>

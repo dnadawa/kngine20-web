@@ -1,8 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d73a273e-9bc6-48e6-be91-6d44ae102b48" name="Default Changelist" comment="" />
+    <list default="true" id="d73a273e-9bc6-48e6-be91-6d44ae102b48" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Public Invitation/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Public Invitation/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Public Invitation/php/Register.php" beforeDir="false" afterPath="$PROJECT_DIR$/Public Invitation/php/Register.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegForm/CyberCombat/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/RegForm/CyberCombat/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegForm/CyberCombat/php/cybercombat.php" beforeDir="false" afterPath="$PROJECT_DIR$/RegForm/CyberCombat/php/cybercombat.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegForm/CyberCombat/thanking/Confirmation.html" beforeDir="false" afterPath="$PROJECT_DIR$/RegForm/CyberCombat/thanking/Confirmation.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegForm/codecom/php/codecom.php" beforeDir="false" afterPath="$PROJECT_DIR$/RegForm/codecom/php/codecom.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegForm/codecom/php/projects/Hacking-Wallpapers.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegForm/codecom/thanking/Confirmation.html" beforeDir="false" afterPath="$PROJECT_DIR$/RegForm/codecom/thanking/Confirmation.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegForm/dexigner/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/RegForm/dexigner/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegForm/dexigner/php/dexigner.php" beforeDir="false" afterPath="$PROJECT_DIR$/RegForm/dexigner/php/dexigner.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegForm/dexigner/thanking/Confirmation.html" beforeDir="false" afterPath="$PROJECT_DIR$/RegForm/dexigner/thanking/Confirmation.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegForm/webdezigner/php/webdezig.php" beforeDir="false" afterPath="$PROJECT_DIR$/RegForm/webdezigner/php/webdezig.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegForm/webdezigner/thanking/Confirmation.html" beforeDir="false" afterPath="$PROJECT_DIR$/RegForm/webdezigner/thanking/Confirmation.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/codecom.php" beforeDir="false" afterPath="$PROJECT_DIR$/admin/codecom.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/dezigner.php" beforeDir="false" afterPath="$PROJECT_DIR$/admin/dezigner.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/webdizign.php" beforeDir="false" afterPath="$PROJECT_DIR$/admin/webdizign.php" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,97 +30,140 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Public Invitation/index.html">
+      <file leaf-file-name="codecom.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/RegForm/codecom/php/codecom.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2958">
-              <caret line="174" column="63" selection-start-line="174" selection-start-column="63" selection-end-line="174" selection-end-column="63" />
+            <state relative-caret-position="560">
+              <caret line="28" column="31" selection-start-line="28" selection-start-column="31" selection-end-line="28" selection-end-column="31" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.html">
+      <file leaf-file-name="dexigner.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RegForm/dexigner/php/dexigner.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-9673">
-              <caret line="9" column="58" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="58" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="360">
+              <caret line="36" column="22" selection-start-line="36" selection-start-column="22" selection-end-line="36" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js1/time.js">
+      <file leaf-file-name="webdezig.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RegForm/webdezigner/php/webdezig.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="29" selection-start-line="29" selection-end-line="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css1/additionalstyles.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="904">
-              <caret line="212" column="15" selection-start-line="212" selection-start-column="15" selection-end-line="212" selection-end-column="15" />
+            <state relative-caret-position="277">
+              <caret line="36" column="37" selection-start-line="36" selection-start-column="37" selection-end-line="36" selection-end-column="37" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>leadname</find>
+      <find>leademail</find>
+      <find>leadconno</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>principal</replace>
+      <replace>micname</replace>
+      <replace>micemail</replace>
+      <replace>micconno</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Public Invitation/index.html" />
         <option value="$PROJECT_DIR$/js1/jquery.countTo.js" />
         <option value="E:/Html and CSS/countdown-to-2020/countdown-to-2020/dist/script.js" />
         <option value="$PROJECT_DIR$/js1/time.js" />
         <option value="$PROJECT_DIR$/css1/additionalstyles.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/RegForm/CyberCombat/index.html" />
+        <option value="$PROJECT_DIR$/RegForm/dexigner/index.html" />
+        <option value="$PROJECT_DIR$/RegForm/dexigner/thanking/Confirmation.html" />
+        <option value="$PROJECT_DIR$/RegForm/codecom/thanking/Confirmation.html" />
+        <option value="$PROJECT_DIR$/RegForm/webdezigner/thanking/Confirmation.html" />
+        <option value="$PROJECT_DIR$/RegForm/CyberCombat/thanking/Confirmation.html" />
+        <option value="$PROJECT_DIR$/RegForm/CyberCombat/php/cybercombat.php" />
+        <option value="$PROJECT_DIR$/Public Invitation/index.html" />
+        <option value="$PROJECT_DIR$/Public Invitation/php/Register.php" />
+        <option value="$PROJECT_DIR$/admin/codecom.php" />
+        <option value="$PROJECT_DIR$/admin/dezigner.php" />
+        <option value="$PROJECT_DIR$/admin/webdizign.php" />
+        <option value="$PROJECT_DIR$/RegForm/codecom/php/codecom.php" />
+        <option value="$PROJECT_DIR$/RegForm/dexigner/php/dexigner.php" />
+        <option value="$PROJECT_DIR$/RegForm/webdezigner/php/webdezig.php" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="351" />
-    <option name="y" value="-8" />
-    <option name="width" value="974" />
-    <option name="height" value="1087" />
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="350" />
+    <option name="y" value="-10" />
+    <option name="width" value="975" />
+    <option name="height" value="1089" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Last" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Last" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Last" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Last" type="462c0819:PsiDirectoryNode" />
-              <item name="css1" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="RegForm" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Last" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Last" type="462c0819:PsiDirectoryNode" />
-              <item name="js1" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="RegForm" type="462c0819:PsiDirectoryNode" />
+              <item name="webdezigner" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="RegForm" type="462c0819:PsiDirectoryNode" />
+              <item name="webdezigner" type="462c0819:PsiDirectoryNode" />
+              <item name="php" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="RegForm" type="462c0819:PsiDirectoryNode" />
+              <item name="webdezigner" type="462c0819:PsiDirectoryNode" />
+              <item name="php" type="462c0819:PsiDirectoryNode" />
+              <item name="projects" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="E:/RegisterMarker-master1/RegisterMarker-master" />
   </component>
   <component name="RunDashboard">
@@ -125,62 +188,113 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1569206317756</updated>
+      <workItem from="1576249620635" duration="5489000" />
+      <workItem from="1576255276674" duration="652000" />
     </task>
     <servers />
   </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="6141000" />
+  </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24973656" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1738255" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/js1/jquery.countTo.js" />
-    <entry file="file://E:/Html and CSS/countdown-to-2020/countdown-to-2020/dist/style.css">
+    <entry file="file://$PROJECT_DIR$/Public Invitation/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+        <state relative-caret-position="3880">
+          <caret line="194" column="46" selection-start-line="194" selection-start-column="46" selection-end-line="194" selection-end-column="46" />
         </state>
       </provider>
     </entry>
-    <entry file="file://E:/Html and CSS/countdown-to-2020/countdown-to-2020/dist/index.html">
+    <entry file="file://$PROJECT_DIR$/Public Invitation/php/Register.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="34" column="6" selection-start-line="10" selection-end-line="34" selection-end-column="6" />
+        <state relative-caret-position="140">
+          <caret line="7" column="13" lean-forward="true" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js1/script.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://E:/Html and CSS/countdown-to-2020/countdown-to-2020/dist/script.js">
+    <entry file="file://$PROJECT_DIR$/RegForm/CyberCombat/php/cybercombat.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="33" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
+        <state relative-caret-position="1420">
+          <caret line="71" selection-start-line="71" selection-end-line="73" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RegForm/dexigner/php/dexigner.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="740">
+          <caret line="37" column="122" selection-start-line="37" selection-start-column="122" selection-end-line="37" selection-end-column="150" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Public Invitation/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2958">
+        <state relative-caret-position="3480">
           <caret line="174" column="63" selection-start-line="174" selection-start-column="63" selection-end-line="174" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js1/time.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="580">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css1/additionalstyles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4240">
+          <caret line="212" column="15" selection-start-line="212" selection-start-column="15" selection-end-line="212" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="58" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js1/jquery.countTo.js" />
+    <entry file="file://E:/Html and CSS/countdown-to-2020/countdown-to-2020/dist/style.css" />
+    <entry file="file://E:/Html and CSS/countdown-to-2020/countdown-to-2020/dist/index.html" />
+    <entry file="file://$PROJECT_DIR$/js1/script.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://E:/Html and CSS/countdown-to-2020/countdown-to-2020/dist/script.js" />
+    <entry file="file://$PROJECT_DIR$/css1/additionalstyles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="614">
+          <caret line="212" column="15" selection-start-line="212" selection-start-column="15" selection-end-line="212" selection-end-column="15" />
         </state>
       </provider>
     </entry>
@@ -191,22 +305,128 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css1/additionalstyles.css">
+    <entry file="file://$PROJECT_DIR$/RegForm/CyberCombat/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="904">
-          <caret line="212" column="15" selection-start-line="212" selection-start-column="15" selection-end-line="212" selection-end-column="15" />
+        <state relative-caret-position="-1560">
+          <caret line="69" column="26" lean-forward="true" selection-start-line="69" selection-start-column="26" selection-end-line="69" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RegForm/dexigner/thanking/Confirmation.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="920">
+          <caret line="46" column="79" selection-start-line="46" selection-start-column="79" selection-end-line="46" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RegForm/dexigner/thanking/Confirm Wrong.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RegForm/dexigner/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="117" column="22" lean-forward="true" selection-start-line="117" selection-start-column="22" selection-end-line="117" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-9673">
-          <caret line="9" column="58" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="58" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="520">
+          <caret line="386" column="72" lean-forward="true" selection-start-line="386" selection-start-column="72" selection-end-line="386" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RegForm/codecom/thanking/Confirmation.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="920">
+          <caret line="46" column="79" selection-start-line="46" selection-start-column="79" selection-end-line="46" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RegForm/webdezigner/thanking/Confirmation.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="394">
+          <caret line="46" column="81" selection-start-line="46" selection-start-column="81" selection-end-line="46" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RegForm/CyberCombat/thanking/Confirmation.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="394">
+          <caret line="46" column="73" selection-start-line="46" selection-start-column="73" selection-end-line="46" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public Invitation/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="194" column="46" selection-start-line="194" selection-start-column="46" selection-end-line="194" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public Invitation/php/Register.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RegForm/CyberCombat/php/cybercombat.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="71" selection-start-line="71" selection-end-line="73" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/codecom.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="93" column="124" selection-start-line="93" selection-start-column="101" selection-end-line="93" selection-end-column="124" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/webdizign.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="88" column="76" lean-forward="true" selection-start-line="88" selection-start-column="76" selection-end-line="88" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/dezigner.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="88" column="134" lean-forward="true" selection-start-line="88" selection-start-column="8" selection-end-line="88" selection-end-column="134" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1180">
+          <caret line="13" column="6" lean-forward="true" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contact.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RegForm/webdezigner/php/webdezig.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="36" column="37" selection-start-line="36" selection-start-column="37" selection-end-line="36" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RegForm/dexigner/php/dexigner.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="36" column="22" selection-start-line="36" selection-start-column="22" selection-end-line="36" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RegForm/codecom/php/codecom.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="28" column="31" selection-start-line="28" selection-start-column="31" selection-end-line="28" selection-end-column="31" />
         </state>
       </provider>
     </entry>

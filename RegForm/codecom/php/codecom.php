@@ -33,9 +33,9 @@ $db =mysqli_connect("localhost", "root", "", "kngine19");
 $msg="";
 
   	$proj = $_FILES['projfile']['name'];
-
-  	$target = "projects/".basename($proj);
-$sql = "INSERT INTO codecom (schoolname,projectname,competitorname,competitoremail,contactnumber,projectfile) VALUES ('$sclname','$projname','$competitorname','$competitoremaila','$competitorconno','$proj')";
+    $FileType = pathinfo(basename($proj),PATHINFO_EXTENSION);
+    $target = "projects/".$sclname.'.'.$projname.'.'.$FileType;
+$sql = "INSERT INTO codecom VALUES ('$sclname','$projname','$competitorname','$competitoremaila','$competitorconno','$sclname.$projname.$FileType')";
 
 
 	  // execute query
@@ -43,19 +43,21 @@ $sql = "INSERT INTO codecom (schoolname,projectname,competitorname,competitorema
 
 
   	if ((move_uploaded_file($_FILES['projfile']['tmp_name'], $target)) && $res){
-		header("Location: ../thanking/Confirmation.html");
+
 
 		$to = $competitoremaila;
-		$subject = "Kngine 19";
-		$txt = "Thank You For Register Code_Com 2019";
-		$headers = "From: kngine19@gmail.com";
+		$subject = "Kngine 20";
+		$txt = "Thank You For Register Code_Com 2020";
+		//$headers = "From: kngine19@gmail.com";
 
-		mail($to,$subject,$txt,$headers);	
+		//mail($to,$subject,$txt,$headers);
+
+        header("Location: ../thanking/Confirmation.html");
 	} 
 			
   	else{
-		//header("Location: ../thanking/Confirm Wrong.html");
-		echo "Error: " . $sql . "<br>" . mysqli_error($db);
+		header("Location: ../thanking/Confirm Wrong.html");
+		//echo "Error: " . $sql . "<br>" . mysqli_error($db);
 	  }
 
 }	 
